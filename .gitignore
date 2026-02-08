@@ -1,0 +1,24 @@
+# Maven build output
+target/
+
+# Compiled files
+*.class
+*.jar
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Temporary
+*.swp
+*~
